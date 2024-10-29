@@ -1,10 +1,12 @@
-41b5b0c5df394f2b6d00e9ce357c0a7ca16d4d0e  en_US.trie
-02c3657da6b497d761ecaaf072ed8b7e9af22cdf  node_modules/@cspell/dict-en-shared/src/shared-additional-words.txt
-5c8dded46787252373cfdd33fd82a90673701e68  src/additional_words.txt
-e22be4b305584c419dbfdad2f69bfa1bb181d239  src/aoo-mozilla-en-dict/en_US.aff
+512fb4dfc403abdb017192e6590d82ea97798460  en_US.trie
+bad858f374581f58df591fb691e42d5e477a2ef0  node_modules/@cspell/dict-en-shared/src/exclude-words.txt
+9f3e4340485b494d7ffa168f6c1548ee1678dfc2  node_modules/@cspell/dict-en-shared/src/shared-additional-words.txt
+d621fa38755a0feb30c2a07fc1b6fb4e0c489e9b  src/acronyms.txt
+ce15095019765cfc1372a9e9ce584eb7d5e353c5  src/additional_words.txt
+bf973d4e9a056973925e9fa15834d83ac3c8a7c6  src/aoo-mozilla-en-dict/en_US.aff
 8d744092d04ef72d0b191140a01570be7d2cf7f4  src/aoo-mozilla-en-dict/en_US.dic
 1263b16ab794b5ce2ffe602ac82663a8e86a57f5  src/contractions-and-possessives.txt
-65edb8dcf8f74862ac39ac764968a14b172be2b1  src/en_US.txt
+aa26656a3203c5133fc2056bd70a09cf497130df  src/en_US.txt
 e22be4b305584c419dbfdad2f69bfa1bb181d239  src/hunspell/en_US-large.aff
 991c939c73565acb785440124bfd24a796ff7609  src/hunspell/en_US-large.dic
 117aa728c29fbdaca4ba5d9ccffe3209348eb918  src/hyphenated-words.txt

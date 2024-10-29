@@ -1,9 +1,10 @@
 {
   "name": "@cspell/dict-hu-hu",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Hungarian dictionary for cspell.",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "provenance": true
   },
   "exports": {
     ".": "./cspell-ext.json",
@@ -14,13 +15,14 @@
     "build": "cross-env NODE_OPTIONS=--max_old_space_size=8192 cspell-tools-cli build",
     "build:conditional": "pnpm build --conditional && pnpm gz",
     "gz": "cspell-tools-cli gzip \"dict/*.trie\"",
-    "test": "hunspell-reader words -n 1000 -m 0 \"src/hunspell/hu_HU.dic\" | cspell -v -c ./cspell-ext.json \"--local=hu\" \"--languageId=*\" stdin",
+    "test": "pipe-cmds \"hunspell-reader words -n 1000 -m 0 \\\"src/hunspell/hu_HU.dic\\\"\" \"cspell -c ./cspell-ext.json \\\"--local=hu\\\" \\\"--languageId=*\\\" stdin\"",
     "prepublishOnly": "echo OK",
     "prepare:dictionary": "pnpm gz"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/streetsidesoftware/cspell-dicts.git"
+    "url": "https://github.com/streetsidesoftware/cspell-dicts",
+    "directory": "dictionaries/hu_HU"
   },
   "keywords": [
     "cspell",
@@ -30,7 +32,7 @@
     "dictionary",
     "spelling"
   ],
-  "author": "Street Side Software",
+  "author": "Street Side Software <support@streetsidesoftware.nl>",
   "contributors": [],
   "license": "GPL-3.0",
   "bugs": {

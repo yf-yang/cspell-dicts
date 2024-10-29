@@ -1,26 +1,13 @@
+# Software Concepts and common terminology
+# This file has grow quite large and contains words that would
+# be better in another file. Before adding a word, consider if it is
+# a concept (like routing, sorting, encryption) or a common coding word (hover, unroute, unmangle).
+# Please add common coding words to ./coding-terms.txt
+# Please add tools to ./software-tools.txt
+# Please add services to ./software-services.txt
+# Please add new terms below this line, one per line. They will get automatically sorted.
 AAAI
-abcde
-abcdef
-abcdefg
-abcdefgh
-abcdefghi
-abcdefghij
-abcdefghijk
-abcdefghijkl
-abcdefghijklm
-abcdefghijklmn
-abcdefghijklmno
-abcdefghijklmnop
-abcdefghijklmnopq
-abcdefghijklmnopqr
-abcdefghijklmnopqrs
-abcdefghijklmnopqrst
-abcdefghijklmnopqrstu
-abcdefghijklmnopqrstuv
-abcdefghijklmnopqrstuvw
-abcdefghijklmnopqrstuvwx
-abcdefghijklmnopqrstuvwxy
-abcdefghijklmnopqrstuvwxyz
+abortable
 accessor
 acos
 activesupport
@@ -31,6 +18,7 @@ addons
 addr
 adhoc
 administrability
+aeiouy
 AES128
 Affero
 aggregation
@@ -47,6 +35,7 @@ allowlisted
 allowlisting
 allowlists
 alt
+and
 anonymise
 anonymiser
 anonymisers
@@ -111,7 +100,9 @@ autocompleted
 autocompletion
 autoconf
 autoconfigure
+autocrlf
 autodetect
+autofix
 autoformat
 autoformats
 autoformatted
@@ -143,6 +134,7 @@ backfilling
 backfills
 backoff
 backport
+backported
 backreference
 backreferences
 backtick
@@ -150,6 +142,7 @@ backtrace
 backtraced
 backtraces
 backtracing
+backuper
 bar
 basedir
 baseimage
@@ -165,6 +158,7 @@ Berksfile
 bicubic
 bigint
 bigip
+bigtable
 bin
 Bitrate
 bitset
@@ -190,6 +184,7 @@ bools
 bootp
 branch
 brewfile
+brotli # a lossless data compression algorithm
 Bruijn
 btoa
 btree
@@ -227,6 +222,7 @@ Caskroom
 CDATA
 cfml
 cgroup
+cgroups
 chai
 chainable
 changelog
@@ -243,6 +239,7 @@ class
 clint
 Clojure
 cloner
+clusterid
 cmdlet
 cmdlets
 CNAME
@@ -277,6 +274,7 @@ commit
 commit-ish
 commits
 committish
+common
 commonjs
 compile
 compiler
@@ -284,6 +282,8 @@ componentization
 componentize
 composability
 composable
+composables
+concepts
 concurrency
 condition
 conditional
@@ -310,6 +310,7 @@ cos
 covariance
 cpp
 cpuinfo
+CRD
 critical
 crlf
 cronjob
@@ -350,18 +351,30 @@ dasherized
 database
 databases
 dataloader
+datapoint
 dataset
 datasets
 datasources
 DAWG
+DB
+DBaaS
+DBs
+DC
 dcopy
+DCs
 DDMMYY
 ddmmyyyy
 DDoS
+DDTHH
 deadlock
 deadlocked
 deadlocking
 deadlocks
+deallocate
+deallocated
+deallocating
+deallocator
+deallocators
 deauthenticate
 deauthenticated
 deauthenticates
@@ -380,6 +393,8 @@ debugged
 debugger
 debugging
 decl
+declarator
+declarators
 decls
 decodable
 dedent
@@ -396,6 +411,13 @@ deepmind
 DeepScale
 deepspeed
 def
+defragment
+defragmentation # https://en.wikipedia.org/wiki/Defragmentation
+defragmentations
+defragmented
+defragmenter
+defragmenting
+defragments
 defs
 del
 deletable
@@ -465,6 +487,8 @@ deserializes
 deserializing
 desktop
 dest
+destructurable
+destructurables
 destructure
 destructured
 destructuring
@@ -491,6 +515,8 @@ dict
 dicts
 diff
 dir
+directive
+directives
 directory
 direname
 direnames
@@ -517,6 +543,7 @@ dockerize
 docstring
 doctype
 DOM
+DoS
 dotfiles
 dotNET
 double
@@ -561,8 +588,10 @@ encodedstring
 end
 endhighlight
 endian
+endianness
 endif
 endofline
+endregion
 enqueue
 enqueued
 enqueueing
@@ -581,6 +610,7 @@ envvar
 envvars
 EOL
 EOLs
+EPYC
 error
 error level
 errorcodes
@@ -591,6 +621,8 @@ eSignature
 eslint
 ESMTPS
 ESNEXT
+ETag # entity tag
+ETags
 eval
 evaluatable
 event
@@ -611,6 +643,7 @@ falsy
 favicon
 fetchable
 ffmpeg
+fhcount
 file
 fileio
 filename
@@ -620,6 +653,7 @@ filepath
 filepaths
 files
 filesystem
+filesystems
 filetype
 filetypes
 findmnt
@@ -636,9 +670,12 @@ foldername
 folders
 foreach
 fork
+formattable
 fortran
 fqdn
+FQDNS
 frac
+fragmentation
 frameborder
 framerate
 freq
@@ -646,11 +683,13 @@ frontend
 fsharp
 fstab
 fsync
+fsynced
 fullstack
 func
 function
 fuzzer
 fuzzers
+gcloud
 GCM
 GDPR
 Gemfile
@@ -688,6 +727,7 @@ grepping
 greps
 groovy
 grpc
+gserviceaccount
 guid
 GUIs
 gunzipped
@@ -705,8 +745,12 @@ hash
 hasher
 hashmap
 hashmaps
+hcloud
+headless
 helvetica
 heredoc
+HHMM
+hhmmss
 hipaa
 hoist
 homedir
@@ -716,6 +760,8 @@ homogenous
 host
 hostname
 hotfix
+hotswappable
+hotswappables
 hover
 hpcaitech
 href
@@ -727,6 +773,8 @@ htop
 http
 httpd
 https
+hyperdisk
+hyperdisks
 hyperparameter
 hypervisor
 hypervisors
@@ -748,8 +796,12 @@ ideographic
 IETF
 if
 ifelse
+iframe
+iframes
 ifupdown
 ignore
+iief
+iife
 immutable
 immutables
 impl
@@ -758,9 +810,12 @@ implemented
 implementing
 implements
 import
+imurmurhash
 incrementable
 incrementally
 incrementor
+index
+indexdb
 infer
 infiniband
 inflector
@@ -801,11 +856,14 @@ interdependencies
 interdependency
 interdependent
 interop
+interoped
 interoperability
 interoperable
+interops
 invariant
 invariants
 iops
+iowait
 ipaddress
 ipconfig
 ipmi
@@ -814,6 +872,7 @@ ipsec
 ipset
 ipsum
 iptables
+irq
 isc
 isomorphic
 itanium
@@ -857,6 +916,8 @@ jsonrpc
 jumbotron
 junit
 Jupyter
+JWK
+kanban
 kerberos
 Kerberos
 keybindings
@@ -896,6 +957,7 @@ Levenshtein
 lex
 lexable
 lexed
+lexer
 lexes
 lexing
 lgpl
@@ -974,6 +1036,9 @@ manpage
 map
 mapfn
 markdown
+marshaling # US Spelling
+marshallable
+marshalling
 maxdepth
 maxkb
 maxptime
@@ -1008,6 +1073,8 @@ menuitem
 menuitems
 merb
 MERCHANTABILITY
+mergeability # https://en.wiktionary.org/wiki/mergeability
+mergeable # https://en.wiktionary.org/wiki/mergeable
 meta
 metadata
 micromatch
@@ -1022,6 +1089,12 @@ mingw
 minification
 minimap
 minitest
+mipmap # https://en.wikipedia.org/wiki/Mipmap
+mipmapped
+mipmapper
+mipmappers
+mipmapping
+mipmaps
 misconfiguration
 misconfigurations
 misconfigure
@@ -1055,14 +1128,17 @@ motd
 mouse
 mouseover
 mpl
+mrkdwn
 msdn
 msgs
 mtime
+mtls
 multicast
 multiprocessing
 multiprop
 multiroot
 multiselect
+multitarget
 multithread
 multithreaded
 multithreading
@@ -1109,9 +1185,13 @@ noinspection
 nolazy
 non-iterable
 non-negative
+nondefault
+nonstatic # also non-static
+nonterminating
 noop
 noreply
 nospace
+NOSQL
 NOTFOUND
 npm
 ntpd
@@ -1132,39 +1212,23 @@ offboardings
 offboards
 offline
 OleDLL
-onabort
-onboard
-onboarded
-onboarding
-onboardings
-onboards
-oncomplete
-onended
-onerror
-onfulfilled
-oniguruma
-online
-onload
-onloadend
-onmessage
-onopen
-onprogress
-onreadystatechange
-onrejected
-onsuccess
-ontimeout
-onversionchange
 OOBE
 openid
 OpenID
+OpenTelemetry
 opsign
 opsigns
 orderby
 org
 orgs
 ORM
+OSA
 osi
 osmlab
+otel
+otsdb
+outfile
+overridable
 package
 packages
 pagefile
@@ -1188,6 +1252,7 @@ pata
 pathname
 pauseable
 pauseables
+Paxos
 pbkdf1
 pbkdf2
 pcie
@@ -1198,7 +1263,10 @@ performant
 perl6
 permalink
 permalinks
+permutate
 personalizations
+pid
+pidof
 pixel
 pixelated
 pixellated
@@ -1220,6 +1288,8 @@ policyfile
 polyfill
 polyfilled
 popup
+positionals
+POSIX
 Postgres
 postinstall
 pow
@@ -1234,6 +1304,11 @@ precompile
 precompiled
 precompiles
 precompiling
+precompress
+precompressed
+precompressing
+precompressor
+precompressors
 precomputing
 predicate
 predicates
@@ -1247,6 +1322,7 @@ prefilling
 prefills
 Preformat
 preformatted
+preinstall
 preload
 preloaded
 preloading
@@ -1256,6 +1332,11 @@ prepend
 prepended
 prepending
 prepends
+preprocess
+preprocessed
+preprocessing
+preprocessor
+preprocessors
 prepublish
 prettyprint
 prev
@@ -1276,11 +1357,17 @@ productizing
 prog
 Promise
 promisify
+PromQL
 properties
 protected
+Protobuf
+Protobufs
 provisionings
+proxyless
 pseudocode
 pseudorandom
+pseudoterminal
+PSP
 public
 pubsub
 pug
@@ -1288,15 +1375,19 @@ pvcreate
 pwd
 python
 qemu
+qps
 queryable
 queue
 queued
 queuing
+quickfix
 quicksort
 quotemark
 r
 race
 rackconnect
+randomizer
+randomizers
 raspbian
 razor
 rbac
@@ -1328,6 +1419,7 @@ Reddit's
 redeclare
 RedHat
 redirectable
+redistributable
 reduce
 reenable
 reenabled
@@ -1344,6 +1436,7 @@ refactoring
 refactorings
 reference
 referenceable
+referenceCounting # https://en.wikipedia.org/wiki/Reference_counting
 referencer
 refetch
 refetching
@@ -1365,6 +1458,7 @@ reinitialize
 reinitialized
 reinitializes
 reinitializing
+remoting
 renormalization
 renormalizations
 renormalize
@@ -1458,6 +1552,7 @@ roadmap
 root
 rootful
 rootless
+routable
 rpar
 rpm
 RSA
@@ -1469,6 +1564,7 @@ runnable
 runnables
 running
 runtime
+runtimes
 rust
 rx
 rxjava
@@ -1518,6 +1614,8 @@ serializes
 serializing
 server
 serverless
+servlet
+servlets
 set
 setter
 setuptool
@@ -1526,6 +1624,7 @@ sha
 SHA256
 shaderlab
 shard
+sharded
 sharding
 sharedmemory
 shas
@@ -1543,11 +1642,16 @@ signout
 SIGQUIT
 sigs
 SIGTERM
+SigV4
+SigV4A
 sin
 sinon
 sizeof
 skippable
+SLA
 slapd
+SLI
+SLO
 slugify
 smalltalk
 smbios
@@ -1555,8 +1659,12 @@ smtp
 snackbar
 snapctl
 snapd
+softirq
 softlayer
 SoftLayer
+softphone
+softphones
+software
 solaris
 Solaris
 Solr
@@ -1564,8 +1672,11 @@ sort
 sorted
 sourcefile
 sourcemap
+sourceMap
+sourceMaps
 Sparc
 SPDX
+spinlock
 sql
 SQL
 sqlserver
@@ -1593,6 +1704,10 @@ stringification
 stringified
 stringifies
 stringify
+stringifyable
+stringifyables
+struct
+structs
 stunnel
 stylesheets
 subcommand
@@ -1621,6 +1736,9 @@ subprotocol
 subprotocols
 subreddit
 subreddit's
+subroute
+subroutes
+subrouting
 subscribable
 subscribables
 subscriptable
@@ -1635,8 +1753,12 @@ sudoers
 sugs
 suid
 Supercomputing
+superspace
+superspaces
 supertype
 svmon
+swappable
+swappables
 swappiness
 swift
 Swiftype
@@ -1657,6 +1779,7 @@ tan
 telegraf
 temporaryfile
 terminal
+terminology
 test
 testable
 tested
@@ -1668,6 +1791,7 @@ textdocuments
 textfield
 tfplan
 tftp
+Thanos
 themeable
 themeables
 Theming
@@ -1683,10 +1807,12 @@ time zone
 time zones
 timeline
 timelines
+timeseries
 timestamp
 tmlanguage
 tmpfile
 todo
+todos
 tokenization
 tokenizations
 tokenize
@@ -1697,8 +1823,10 @@ tokenizes
 tokenizing
 toolchain
 toolchains
+toolset
 tooltip
 tooltips
+toor
 transact
 transacted
 transaction
@@ -1727,11 +1855,14 @@ treesitter
 trie
 tries
 tripleslash
+truetype
 trust
 trusted
 trusting
 truthy
+tsbs
 tsconfig
+tsdb
 tslib
 tslint
 tsmerge
@@ -1745,21 +1876,24 @@ TypeScript
 TypeScriptReact
 typings
 ulid
+unaggregated
 uname
 unassignable
-UNCACHED
+uncached
 uncaptured
 uncheck
 unchecked
 unchecking
 unchecks
-Unclaim
+unclaim
 uncomment
 uncommented
 uncommenting
 uncomments
+uncustomized
 undecodable
 undef
+undeletable
 undeleted
 uneditable
 unelevated
@@ -1769,16 +1903,25 @@ unencrypting
 unencrypts
 unescape
 unescaped
+unescapes
+unescaping
 unexport
 unexported
+unextracted
 unfavorite
+unflag
+unflagged
 ungettable
-Unhandled
+unhandled
 unicast
 unignored
 unimported
 unindent
+unindented
+unindents
+uninitialize
 uninstall
+uninstallation
 uninstalling
 uniq
 uniquifier
@@ -1788,8 +1931,16 @@ unittest
 univariate
 unix
 unlicense
+unmanaged
+unmangled
 unmap
+unmarshaled
+unmarshaler
+unmarshalers
+unmarshaling
+unmarshallable
 unmerge
+unmergeable # https://en.wiktionary.org/wiki/unmergeable
 unmerged
 unmerges
 unmerging
@@ -1817,6 +1968,10 @@ unpersisted
 unprefixed
 unprocessable
 unpruned
+unpublish
+unpublished
+unpublisher
+unpublishes
 unqueued
 unqueueing
 unqueues
@@ -1839,7 +1994,10 @@ unselected
 unselecting
 unselectings
 unselects
+unserializable
+unsetting
 unshare
+unsort
 unsortable
 unsorted
 unstage
@@ -1850,6 +2008,8 @@ unstyle
 unstyled
 unstyles
 unsubscriptable
+unswappable
+unswappables
 untrack
 untracked
 untrust
@@ -1875,6 +2035,7 @@ urlencoded
 urls
 user
 useradd
+userdata
 username
 usings
 util
@@ -1915,6 +2076,8 @@ virtualizing
 visualstudio
 VLAN
 VLANs
+vlog
+vlogs
 VMDK
 vmkernel
 vmlinuz
@@ -1932,6 +2095,7 @@ vsliveshare
 vsmarketplacebadge
 vSphere
 vSwitch
+Vulkan
 Vyatta
 WAgent
 walkthrough
@@ -1950,7 +2114,9 @@ webhook
 webkit
 webpack
 websocket
+websockets
 webview
+webviews
 wellknown
 whitelist
 whitelisted
@@ -1975,6 +2141,7 @@ WinNT
 WinOS
 WinRM
 WinRS
+winsw
 WIPO
 wireguard
 Wishart
@@ -2013,6 +2180,7 @@ YAGNI
 Yahoo
 yakuake
 yaml
+yandexcloud
 ymd
 yymmdd
 yyyy

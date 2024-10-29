@@ -41,16 +41,19 @@ errexit
 errtrace
 esac
 EUID
+euxo
 eval
 exec
 EXECIGNORE
 exit
 export
+fallocate
 false
 fc
 fg
 fi
 for
+fstype
 FUNCNAME
 FUNCNEST
 function
@@ -117,6 +120,7 @@ OPTERR
 OPTIND
 OSTYPE
 PATH
+pgrep
 physical
 pipefail
 PIPESTATUS

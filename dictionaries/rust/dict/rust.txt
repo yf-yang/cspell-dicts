@@ -33,6 +33,7 @@ as
 assert
 assert_eq
 become
+bindgen
 bool
 box
 break
@@ -84,6 +85,8 @@ offsetof
 option_env
 override
 panic
+powf
+powi
 println
 priv
 proc
@@ -92,6 +95,7 @@ pure
 ref
 return
 rustfmt
+rustup
 self
 serde
 sizeof
@@ -101,6 +105,7 @@ stringify
 struct
 super
 sync
+tokio
 toml
 toolchain
 trait

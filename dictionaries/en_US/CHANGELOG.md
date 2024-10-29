@@ -3,6 +3,91 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.3.26](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.25...@cspell/dict-en_us@4.3.26) (2024-10-11)
+
+
+### Updates and Bug Fixes
+
+* Update package git url ([#3667](https://github.com/streetsidesoftware/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/streetsidesoftware/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+
+## [4.3.25](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.24...@cspell/dict-en_us@4.3.25) (2024-10-11)
+
+
+### Updates and Bug Fixes
+
+* Fix the git repository URL ([#3665](https://github.com/streetsidesoftware/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/streetsidesoftware/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+
+## [4.3.24](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.23...@cspell/dict-en_us@4.3.24) (2024-10-11)
+
+
+### Updates and Bug Fixes
+
+* Sign all dictionaries ([#3661](https://github.com/streetsidesoftware/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/streetsidesoftware/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Workflow Bot -- Build Dictionaries ([#3660](https://github.com/streetsidesoftware/cspell-dicts/issues/3660)) ([4f77f34](https://github.com/streetsidesoftware/cspell-dicts/commit/4f77f3405be7b3ff3ee0d4118f9f3af2476ee24c))
+
+## [4.3.23](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.22...@cspell/dict-en_us@4.3.23) (2024-06-20)
+
+
+### Updates and Bug Fixes
+
+* Remove lower case `colum` from English dictionaries. ([#3312](https://github.com/streetsidesoftware/cspell-dicts/issues/3312)) ([63a84ab](https://github.com/streetsidesoftware/cspell-dicts/commit/63a84abee92c461a9fb495d5a0060adc0fdee1a3))
+* Workflow Bot -- Build Dictionaries ([#3315](https://github.com/streetsidesoftware/cspell-dicts/issues/3315)) ([2c55227](https://github.com/streetsidesoftware/cspell-dicts/commit/2c55227af65eaeb1798ffc9d568c8ff8e5cbd022))
+
+<!--- cspell:ignore colum --->
+
+## [4.3.22](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.21...@cspell/dict-en_us@4.3.22) (2024-06-17)
+
+
+### Updates and Bug Fixes
+
+* fix some English spelling issues. ([#3296](https://github.com/streetsidesoftware/cspell-dicts/issues/3296)) ([eabb25a](https://github.com/streetsidesoftware/cspell-dicts/commit/eabb25a790c0d44b6c929cc6cc42f784c261fa11))
+* Workflow Bot -- Build Dictionaries ([#3298](https://github.com/streetsidesoftware/cspell-dicts/issues/3298)) ([8f63130](https://github.com/streetsidesoftware/cspell-dicts/commit/8f631309d312cea2fcdde4a5700d2e619fcdc584))
+
+## [4.3.21](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.20...@cspell/dict-en_us@4.3.21) (2024-05-26)
+
+
+### Updates and Bug Fixes
+
+* Make sure acronyms are part of the dictionary ([#3227](https://github.com/streetsidesoftware/cspell-dicts/issues/3227)) ([008008d](https://github.com/streetsidesoftware/cspell-dicts/commit/008008d2a78a9ec9c072305f22f176156eb015af))
+* update en-us dict ([#3220](https://github.com/streetsidesoftware/cspell-dicts/issues/3220)) ([9909092](https://github.com/streetsidesoftware/cspell-dicts/commit/9909092f94eebac99d960e37a12d6f1a1180079d))
+* Workflow Bot -- Build Dictionaries ([#3226](https://github.com/streetsidesoftware/cspell-dicts/issues/3226)) ([2e83ef7](https://github.com/streetsidesoftware/cspell-dicts/commit/2e83ef7dcf6e12d83bfedca3263c2deb55baae73))
+
+## [4.3.20](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.19...@cspell/dict-en_us@4.3.20) (2024-05-23)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#3205](https://github.com/streetsidesoftware/cspell-dicts/issues/3205)) ([8a56dba](https://github.com/streetsidesoftware/cspell-dicts/commit/8a56dba2acc59b9b1345d7657cd7aefcb4932824))
+
+## [4.3.19](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.18...@cspell/dict-en_us@4.3.19) (2024-04-15)
+
+
+### Updates and Bug Fixes
+
+* Remove `persistance` from en_US ([#3114](https://github.com/streetsidesoftware/cspell-dicts/issues/3114)) ([1d6abd7](https://github.com/streetsidesoftware/cspell-dicts/commit/1d6abd7ddeeb7f5fbe37141d8230b585742df145))
+* Workflow Bot -- Build Dictionaries ([#3115](https://github.com/streetsidesoftware/cspell-dicts/issues/3115)) ([6d6e1ef](https://github.com/streetsidesoftware/cspell-dicts/commit/6d6e1efda472021fedc302b4aabffae677331ce3))
+
+## [4.3.18](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.17...@cspell/dict-en_us@4.3.18) (2024-04-13)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#3103](https://github.com/streetsidesoftware/cspell-dicts/issues/3103)) ([02c05e3](https://github.com/streetsidesoftware/cspell-dicts/commit/02c05e392198f3ac0b1cd9132d37b0c147405632))
+
+## [4.3.17](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.16...@cspell/dict-en_us@4.3.17) (2024-02-19)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2999](https://github.com/streetsidesoftware/cspell-dicts/issues/2999)) ([be5878e](https://github.com/streetsidesoftware/cspell-dicts/commit/be5878ec21728dfc833917959e549b93d9d0e9b1))
+
+## [4.3.16](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.15...@cspell/dict-en_us@4.3.16) (2024-02-09)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2982](https://github.com/streetsidesoftware/cspell-dicts/issues/2982)) ([28d4083](https://github.com/streetsidesoftware/cspell-dicts/commit/28d4083c238b330772186ff7bb25f8ace97e8e61))
+
 ## [4.3.15](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.14...@cspell/dict-en_us@4.3.15) (2024-01-29)
 
 

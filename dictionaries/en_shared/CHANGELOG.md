@@ -1,5 +1,59 @@
 # Change Log
 
+## [1.0.17](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.16...@cspell/dict-en-shared@1.0.17) (2024-10-11)
+
+
+### Updates and Bug Fixes
+
+* Update package git url ([#3667](https://github.com/streetsidesoftware/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/streetsidesoftware/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+
+## [1.0.16](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.15...@cspell/dict-en-shared@1.0.16) (2024-10-11)
+
+
+### Updates and Bug Fixes
+
+* Fix the git repository URL ([#3665](https://github.com/streetsidesoftware/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/streetsidesoftware/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+
+## [1.0.15](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.14...@cspell/dict-en-shared@1.0.15) (2024-10-11)
+
+
+### Updates and Bug Fixes
+
+* **shared-additional-words:** haptic/s ([#3659](https://github.com/streetsidesoftware/cspell-dicts/issues/3659)) ([e33b9e2](https://github.com/streetsidesoftware/cspell-dicts/commit/e33b9e2948825e138b443fa4f5989c5c2f5082da))
+* Sign all dictionaries ([#3661](https://github.com/streetsidesoftware/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/streetsidesoftware/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+
+## [1.0.14](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.13...@cspell/dict-en-shared@1.0.14) (2024-06-20)
+
+
+### Updates and Bug Fixes
+
+* Remove lower case `colum` from English dictionaries. ([#3312](https://github.com/streetsidesoftware/cspell-dicts/issues/3312)) ([63a84ab](https://github.com/streetsidesoftware/cspell-dicts/commit/63a84abee92c461a9fb495d5a0060adc0fdee1a3))
+
+<!--- cspell:ignore colum --->
+
+## [1.0.13](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.12...@cspell/dict-en-shared@1.0.13) (2024-05-23)
+
+
+### Updates and Bug Fixes
+
+* update en-shared dict ([#3200](https://github.com/streetsidesoftware/cspell-dicts/issues/3200)) ([e65ffb5](https://github.com/streetsidesoftware/cspell-dicts/commit/e65ffb5b166d2b4ca22e32aaead59934acbc1e43))
+
+## [1.0.12](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.11...@cspell/dict-en-shared@1.0.12) (2024-04-13)
+
+
+### Updates and Bug Fixes
+
+* add swiper to shared-additional-words.txt ([#3102](https://github.com/streetsidesoftware/cspell-dicts/issues/3102)) ([aecf218](https://github.com/streetsidesoftware/cspell-dicts/commit/aecf2187904095d03e783d4d95da393d98b62dbb))
+* Workflow Bot -- Build Dictionaries ([#3103](https://github.com/streetsidesoftware/cspell-dicts/issues/3103)) ([02c05e3](https://github.com/streetsidesoftware/cspell-dicts/commit/02c05e392198f3ac0b1cd9132d37b0c147405632))
+
+## [1.0.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.10...@cspell/dict-en-shared@1.0.11) (2024-02-19)
+
+
+### Updates and Bug Fixes
+
+* Add `mitigations` to English shared-additional-words.txt ([#2997](https://github.com/streetsidesoftware/cspell-dicts/issues/2997)) ([6441d52](https://github.com/streetsidesoftware/cspell-dicts/commit/6441d5276c86289b700b47e3e36d8dddd07caef2))
+* Workflow Bot -- Build Dictionaries ([#2999](https://github.com/streetsidesoftware/cspell-dicts/issues/2999)) ([be5878e](https://github.com/streetsidesoftware/cspell-dicts/commit/be5878ec21728dfc833917959e549b93d9d0e9b1))
+
 ## [1.0.10](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.9...@cspell/dict-en-shared@1.0.10) (2024-01-29)
 
 

@@ -12,6 +12,8 @@ ABBV
 AbbVie Inc.
 Abiomed
 ABIOMED Inc
+Abios
+AbiosGaming
 ABMD
 Accenture
 Accenture plc
@@ -21,8 +23,11 @@ ADBE
 Adblock
 Adecco Group
 AdGuard
+ADI
+Adidas
 Adobe Inc.
 ADSK
+Adsterra
 Advance Auto Parts
 Advance Auto Parts, Inc.
 Advanced Micro Devices Inc
@@ -137,6 +142,7 @@ Archer Daniels Midland
 Archer-Daniels-Midland Co
 Arista Networks
 Arizona State University
+ARNES
 Arrow Electronics, Inc
 Arthur J. Gallagher & Co.
 Asbury Automotive Group, Inc.
@@ -247,7 +253,9 @@ Boston Scientific Corporation
 Boston University
 Bouygues
 BP
+Brandwatch
 Brazilian Distribution
+Brewblox
 Bridgestone
 Bridgewater Associates, LP
 Bristol-Myers Squibb
@@ -378,6 +386,7 @@ Church & Dwight
 CIGNA Corp.
 CIGNA Corporation
 Cincinnati Financial
+Cinemark
 CINF
 Cintas Corporation
 Cisco Systems
@@ -398,6 +407,7 @@ CMCSA
 CME Group Inc.
 CMS Energy
 CMS Energy Corporation
+CNCF
 CNP Assurances
 Coach, Inc.
 Coca-Cola
@@ -409,6 +419,7 @@ Cognizant Technology Solutions
 Cognizant Technology Solutions Corporation
 Colgate-Palmolive
 Colgate-Palmolive Company
+COLOPL
 Columbia University
 Comcast
 Comcast Corp.
@@ -449,6 +460,7 @@ CPRT
 Credit Agricole
 Credit Suisse Group
 CRH
+Criteo
 Crowdin
 Crown Castle International Corp.
 Crown Holdings, Inc.
@@ -466,6 +478,7 @@ Cummins Inc.
 Curtin University
 CVS Caremark
 CVS Health
+Cybozu
 cyon
 D. R. Horton
 D.R. Horton, Inc.
@@ -480,7 +493,9 @@ Darden Restaurants
 Darden Restaurants, Inc.
 Darmstadt University of Technology
 Dartmouth College
+Databricks
 Datadog
+Datanami
 Datorama
 DaVita HealthCare Partners Inc.
 DaVita Inc.
@@ -509,6 +524,7 @@ Devon Energy Corporation
 DexCom
 Dexia Group
 Dezzai
+DFKI
 Diamondback Energy
 Dick's Sporting Goods, Inc.
 Digia Plc
@@ -662,6 +678,7 @@ Flattr
 Fleetcor
 FleetCor Technologies Inc
 Flextronics International
+Flipkart
 FLIR
 FLIR Systems
 Flowserve Corporation
@@ -741,8 +758,10 @@ Goodyear Tire & Rubber
 GOOG
 GOOGL
 Google
+Gradio
 Grafana Labs
 Grainger (W.W.) Inc.
+Grammarly
 Graphcool, Inc
 Graybar Electric Company, Inc.
 Greenland Holding Group
@@ -788,6 +807,7 @@ Heriot-Watt University
 Hertz Global Holdings, Inc.
 Hess
 Hess Corporation
+Hetzner
 Hewlett Packard Enterprise
 Hewlett-Packard
 Hilton Worldwide Holdings Inc.
@@ -837,6 +857,7 @@ Hyundai Motor
 Iberdrola
 Icahn Enterprises L.P.
 ICCC
+Idealo
 Idean
 Idemitsu Kosan
 IDEX Corporation
@@ -1123,6 +1144,7 @@ Medtronic plc
 Medtronic, Inc.
 Meiji Yasuda Life Insurance
 Melanox
+Mercari
 Merck
 Merck & Co.
 Merck & Co., Inc.
@@ -1214,6 +1236,7 @@ National University of Singapore
 National Yang Ming Jiaotong University
 Nationwide
 Nationwide Mutual Insurance Co.
+Naver
 Navistar International Corporation
 NCLH
 NCR Corporation
@@ -1285,6 +1308,7 @@ Nucor Corp.
 Nucor Corporation
 Nullsoft
 NVDA
+Nvidia
 Nvidia Corporation
 NVR, Inc.
 NWSA
@@ -1333,6 +1357,7 @@ PACCAR Inc
 PACCAR Inc.
 Pacific Life
 Packaging Corporation of America
+PagerDuty
 Palantir Technologies
 Panasonic
 Papaki
@@ -1359,12 +1384,14 @@ Penn State University
 Penske Automotive Group, Inc.
 Pentair
 Pentair plc
+Penteston
 People's Friendship University of Russia
 People's Insurance Co. of China
 People's United Financial
 Pepsi
 PepsiCo
 PepsiCo Inc.
+Percona
 PerkinElmer
 Perrigo
 Peter Kiewit Sons', Inc.
@@ -1458,6 +1485,7 @@ Raymond James Financial Inc.
 Raytheon
 Raytheon Company
 Raytheon Technologies
+Razorpay
 RBS
 Reaktor
 Realogy Holdings Corp.
@@ -1466,12 +1494,14 @@ Rebrandly
 Red Hat, Inc.
 Redbud University Nijmegen
 Reddit, Inc.
+REFLEX Solutions
 Regency Centers Corporation
 Regeneron Pharmaceuticals
 Regions Financial Corp.
 Regions Financial Corporation
 REGN
 Reinsurance Group of America, Incorporated
+Relex
 Reliance Industries
 Reliance Steel & Aluminum Co.
 Renault
@@ -1490,6 +1520,7 @@ Rite Aid Corporation
 RMIT University
 Robert Bosch
 Robert Half International
+Roblox
 Roche Group
 Rock-Tenn Company
 Rockwell Automation Inc.
@@ -1542,6 +1573,7 @@ Sears Holdings
 Sears Holdings Corporation
 Semmle Inc.
 Sempra Energy
+Sensedia
 Seoul National University
 ServiceNow
 Seven & I Holdings
@@ -1565,14 +1597,17 @@ SinnerSchrader Deutschland GmbH
 Sinochem Group
 Sinomach
 Sinopec Group
+Sismology
 Sistema
 SIVB
 SK Holdings
+Skaffold
 Skyworks Solutions
 SL Green Realty
 Slevomat
 SLM Corporation
 Smania University
+Smarkets
 Smarty
 SmartyStreets
 Smithfield Foods, Inc.
@@ -1580,6 +1615,7 @@ Snap-on
 Snapchat
 SNCF
 SNPS
+Snyk
 Societe Generale
 Sodexo
 Softbank
@@ -1797,6 +1833,7 @@ UC Santa Barbara
 UCLA
 UCSI University
 UDR, Inc.
+UEFA
 UGent
 UGI Corporation
 ULTA
@@ -1961,6 +1998,7 @@ Viacom Inc.
 ViacomCBS
 Viber
 Victoria University of Wellington
+VictoriaMetrics
 Vienna University of Technology
 Vimeo, Inc.
 Vinci
@@ -1968,6 +2006,7 @@ Vincit
 Visa Inc.
 Visteon Corporation
 Vivendi
+Vodafone
 Vodafone Group
 Volkswagen
 Volvo
@@ -1976,6 +2015,7 @@ VRSK
 VRSN
 VRTX
 Vulcan Materials
+Vultr
 W. R. Berkley Corporation
 W.R. Berkley Corporation
 W.W. Grainger, Inc.
@@ -1995,7 +2035,9 @@ Waste Management Inc.
 Waste Management, Inc.
 Waters Corporation
 Waze
+Webex
 WEC Energy Group
+Wedos
 WELL
 WellCare Health Plans, Inc.
 WellPoint
@@ -2024,6 +2066,7 @@ Willis Towers Watson
 Wilmar International
 Windstream Holdings, Inc.
 Wistron
+Wix
 WLTW
 Wm. Morrison Supermarkets
 Woolworths
@@ -2041,6 +2084,7 @@ Xcel Energy Inc.
 Xerox
 Xerox Corporation
 Xi'an Jiaotong University
+Xiaohongshu
 Xiaomi
 Xilinx
 XING
@@ -2059,6 +2103,7 @@ Yext
 Yleisradio Oy
 Yonsei University
 York University
+YouTube
 Yum! Brands, Inc.
 Zalando
 Zapier
@@ -2066,9 +2111,11 @@ Zappos IP Inc
 ZBRA
 Zebra Technologies
 ZEIT, Inc.
+Zerodha
 Zhejiang Geely Holding Group
 Zhejiang Materials Industry Group
 Zhejiang University
+Zhihu
 Ziggo
 Zillow
 Zimmer Biomet
@@ -2076,4 +2123,5 @@ ZION
 Zions Bancorp
 Zoetis
 Zoho
+Zscaler
 Zurich Insurance Group

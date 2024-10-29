@@ -4,6 +4,7 @@ targets:
   - name: en_US
     sources:
       - src/additional_words.txt
+      - src/acronyms.txt
       - src/aoo-mozilla-en-dict/en_US.dic
       - src/contractions-and-possessives.txt
       - src/en_US.txt
@@ -13,4 +14,6 @@ targets:
     format: trie3
     targetDirectory: '.'
     generateNonStrict: true
+    excludeWordsFrom:
+      - node_modules/@cspell/dict-en-shared/src/exclude-words.txt
 checksumFile: true
